@@ -1,2 +1,2 @@
 # PIP_GUI
-A GUI framework for PIP developed using PyQt4
+A GUI framework for PIP which is developed using PyQt4
